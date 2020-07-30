@@ -1,0 +1,19 @@
+{
+  "name": "quorasaverserver",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RohitRajP/QuoraSaverServer.git"
+  },
+  "author": "Rohit Raj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RohitRajP/QuoraSaverServer/issues"
+  },
+  "homepage": "https://github.com/RohitRajP/QuoraSaverServer#readme"
+}
